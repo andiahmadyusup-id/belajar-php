@@ -34,7 +34,7 @@
     echo "<br><br>";
 
 
-    // Rumus Luas Segitiga
+    // Rumus Luas Lingkaran 
     $phi1 = 3.14;
     $phi2 = 22/7;
     $r = 7;
